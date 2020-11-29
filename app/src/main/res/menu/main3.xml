@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:title="Bold"
+    android:id="@+id/bold"
+    app:showAsAction="never"></item>
+    <item android:title="UnderLine"
+        android:id="@+id/underline"
+        app:showAsAction="never"></item>
+    <item android:title="Copy"
+        android:id="@+id/copy"
+        app:showAsAction="never"></item>
+</menu>
